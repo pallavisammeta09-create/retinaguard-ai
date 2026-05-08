@@ -1,0 +1,13 @@
+{
+  "IMG_SIZE": 224,
+  "BATCH_SIZE": 32,
+  "NUM_CLASSES": 5,
+  "CLASS_NAMES": [
+    "No_DR",
+    "Mild",
+    "Moderate",
+    "Severe",
+    "Proliferate_DR"
+  ],
+  "MODEL": "EfficientNetB3"
+}
